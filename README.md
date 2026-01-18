@@ -1,4 +1,4 @@
-# Confession-webpage-  –> A Heartfelt Way to Express Your Feelings
+# PurposePro –> A Heartfelt Way to Express Your Feelings
 💌Confess your feelings in a beautiful and emotional way with this personalized "Confession" website. With soft animations, and a special message, it’s the perfect way to make your emotions unforgettable 💖
 
 ---
@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/udip15/Confession-webpage-.git
+git clone https://github.com/udip15/Confession-
 
 # Navigate into the folder
 cd confession-site
