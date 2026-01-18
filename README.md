@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/udip15/webp.git
+git clone https://github.com/udip15/Confession-webpage-.git
 
 # Navigate into the folder
 cd confession-site
