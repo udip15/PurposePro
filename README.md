@@ -33,7 +33,29 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 ---
 
+{{
+How to Customize This Project For Yourself  💖
+Want to make this project your own?
+Just follow these simple steps:
+1.Replace the photos
+ Go to the public/images folder.
+ Replace the existing images with your own pictures.
+2.Add your lover’s name
+Open the src/components/SpecialMessage.jsx file.
+Replace the name inside with your special someone’s name.
+3. Install dependencies
+npm install
 
+4. Start the development server
+npm run dev
+
+5.check the project
+
+6.Deploy in netify and share the link to your lover.
+
+Now your project is fully personalized and ready to share! ✨
+
+}}
 
 ---
 
