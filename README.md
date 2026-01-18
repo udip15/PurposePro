@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/udip15/PurposePro.git
 
 # Navigate into the folder
 cd confession-site
