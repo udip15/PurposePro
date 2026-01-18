@@ -1,2 +1,45 @@
-# Confession-webpage-
-A creative confession website built to help express emotions in a unique and engaging way. Featuring smooth animations, and a special message, this project transforms a simple confession into an unforgettable experience 💌
+# Confession-webpage-  –> A Heartfelt Way to Express Your Feelings
+💌Confess your feelings in a beautiful and emotional way with this personalized "Confession" website. With soft animations, and a special message, it’s the perfect way to make your emotions unforgettable 💖
+
+---
+
+## 🛠 Tech Stack
+
+- ⚛️ **Next.js** – React Framework
+- 🎞️ **Motion** – For smooth and emotional animations
+- 🎨 **Tailwind CSS** – Utility-first modern styling
+
+---
+
+## 🖥 Local Setup
+
+To run this project locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/udip15/webp.git
+
+# Navigate into the folder
+cd confession-site
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Then open [http://localhost:3000](http://localhost:3000) in your browser to explore the site.
+
+---
+
+
+
+---
+
+## ⭐ Support
+
+If you found this project lovely, please consider giving it a ⭐
+Thank you for being here! 🫶  
+Made with emotions by **Udip** – @udip15
+
